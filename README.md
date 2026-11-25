@@ -1,5 +1,5 @@
 # yogendra
-
+currently learning git and github!
 # Hi, I'm Yogi! 👋
 
 🎓 First-Year Integrated Software Engineering Student
